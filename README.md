@@ -14,8 +14,11 @@ Special Features:
 Dependency:
 
 Bootstrap : https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+
 Google API : https://fonts.googleapis.com/css?family=Coda 
+
 JQuery : http://code.jquery.com/jquery-1.11.0.min.js 
+
 Sweet Alert : https://unpkg.com/sweetalert/dist/sweetalert.min.js
 
 
